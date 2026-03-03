@@ -1,7 +1,7 @@
 # Kazuki
-Lynxx BETA
+Lynxx 
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/4LynxX/Lynx/refs/heads/main/Beta.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/4LynxX/Lynx/refs/heads/main/LynxxMain.lua"))()
 
 noxius lite (free)
 
