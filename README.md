@@ -6,3 +6,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/4LynxX/Lynx/refs/head
 noxius lite (free)
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/cyaahekel/Beta/refs/heads/main/BetaTester.lua",true))()
+
+noxius new loader
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/cyaahekel/Beta/refs/heads/main/Freemium",true))()
