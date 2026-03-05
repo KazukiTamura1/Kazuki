@@ -10,3 +10,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/cyaahekel/Beta/refs/h
 noxius new loader
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/cyaahekel/Beta/refs/heads/main/Freemium",true))()
+
+token Fonnte
+
+thAE6s9xMQfXaDr8eJYA
