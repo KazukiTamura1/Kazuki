@@ -11,6 +11,6 @@ noxius new loader
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/cyaahekel/Beta/refs/heads/main/Freemium",true))()
 
-token Fonnte
+Webhook DC
 
-thAE6s9xMQfXaDr8eJYA
+https://discord.com/api/webhooks/1463752572635451412/rNdLwuiLGZoCqSzpEf5QMBTcmi5Go5r2kKrLsj-bd0e7_rCILUzxE2rKjs2SMaOFzYXa
